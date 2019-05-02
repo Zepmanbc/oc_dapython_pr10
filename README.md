@@ -5,6 +5,6 @@
 
 This is the same application as [https://github.com/Zepmanbc/oc_dapython_pr8](https://github.com/Zepmanbc/oc_dapython_pr8).
 
-It has been deployed on AWS : [http://18.222.24.163/](http://18.222.24.163/)
+It has been deployed on AWS : [http://3.16.90.115/](http://3.16.90.115/)
 
 Deployment process [here](https://github.com/Zepmanbc/oc_dapython_pr10/blob/master/doc/demarche.md) (in french)
