@@ -8,7 +8,7 @@ flake8 = "*"
 mysqlclient = "*"
 
 [packages]
-django = "==2.2"
+django = "==2.2.8"
 requests = "*"
 pytest-django = "*"
 pytest-cov = "*"
