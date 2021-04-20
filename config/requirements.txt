@@ -13,7 +13,7 @@ more-itertools==7.0.0
 newrelic==4.18.0.118
 pluggy==0.9.0
 psycopg2-binary==2.8.2
-py==1.8.0
+py==1.10.0
 pycodestyle==2.5.0
 pyflakes==2.1.1
 pytest==4.4.1
